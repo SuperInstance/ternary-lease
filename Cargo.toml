@@ -1,0 +1,7 @@
+[package]
+name = "ternary-lease"
+version = "0.1.0"
+edition = "2021"
+description = "Distributed lease management for GPU resources with ternary states. {+1=held, 0=expired, -1=revoked}. Renewal, revocation, deadlock detection."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/ternary-lease"
